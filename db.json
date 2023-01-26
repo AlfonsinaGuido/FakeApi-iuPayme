@@ -1,0 +1,83 @@
+{
+    "cuenta": [
+      {
+        "id": "1",
+        "name": "Cuenta1",
+        "cliente": "Cliente 1",
+        "saldo": 5346          
+      },
+      {
+        "id": "2",
+        "name": "Cuenta2",
+        "cliente": "Cliente 2",
+        "saldo": 6784
+      }
+    ],
+    "transactions": [
+     {
+      "id": "0000000345",
+      "type": "Receiving money",
+      "user": "Bruno Hoffman", 
+      "amount": 200,
+      "date": "2020-05-24",
+      "number": 1,
+      "arrow": "🠕"
+     },
+     {
+      "id": "0000000346",
+      "type": "Receiving money",
+      "user": "Vanessa Saldia", 
+      "amount": 400,
+      "date": "2020-05-24",
+      "number": 2,
+      "arrow": "🠗"
+     },
+     {
+      "id": "0000000347",
+      "type": "Receiving money",
+      "user": "Chad Kerley", 
+      "amount": 180,
+      "date": "2020-05-24",
+      "number": 3,
+      "arrow": "🠗"
+     },
+     {
+      "id": "0000000348",
+      "type": "Receiving money",
+      "user": "Manuel Rovira", 
+      "amount": 280,
+      "date": "2020-04-20",
+      "number": 4,
+      "arrow": "🠗"
+     }
+    ],
+    "cards":[
+      {
+        "id": "1",
+        "number1": "5648",
+        "number2": "3500",
+        "number3": "9208",
+        "number4": "6180",
+        "balance": 7610,
+        "type": "mastercard"
+      },
+      {
+        "id": "2",
+        "number1": "7874",
+        "number2": "5699",
+        "number3": "5522",
+        "number4": "4489",
+        "balance": 2233,
+        "type": "mastercard"
+      },
+      {
+        "id": "3",
+        "number1": "5899",
+        "number2": "5248",
+        "number3": "0805",
+        "number4": "4828",
+        "balance": 410,
+        "type": "mastercard"
+      }
+    ]
+}
