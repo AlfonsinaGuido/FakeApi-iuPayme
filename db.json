@@ -18,7 +18,7 @@
       "id": "0000000345",
       "type": "Receiving money",
       "user": "Bruno Hoffman", 
-      "amount": +200,
+      "amount": "+200",
       "date": "2020-05-24",
       "number": 1,
       "arrow": "🠕"
@@ -27,7 +27,7 @@
       "id": "0000000346",
       "type": "Receiving money",
       "user": "Vanessa Saldia", 
-      "amount": +400,
+      "amount": "+400",
       "date": "2020-05-24",
       "number": 2,
       "arrow": "🠗"
@@ -36,7 +36,7 @@
       "id": "0000000347",
       "type": "Receiving money",
       "user": "Chad Kerley", 
-      "amount": -180,
+      "amount": "-180",
       "date": "2020-05-24",
       "number": 3,
       "arrow": "🠗"
@@ -45,7 +45,7 @@
       "id": "0000000348",
       "type": "Receiving money",
       "user": "Manuel Rovira", 
-      "amount": +280,
+      "amount": "+280",
       "date": "2020-04-20",
       "number": 4,
       "arrow": "🠗"
